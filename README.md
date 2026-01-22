@@ -16,20 +16,15 @@ Tenho interesse especial em **Inteligência Artificial**, automação e integra�
 
 ## 🛠️ Tecnologias
 
-**Linguagens**
+
 - <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python
 - <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
-- 🗄️ SQL
-
-**Front-end**
 - <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
 - HTML5 | CSS3
 - Consumo de APIs
-
-**Back-end**
 - 🌐 Node.js
 - APIs REST
-- Integração com banco de dados
+- SQL
 
 ---
 
