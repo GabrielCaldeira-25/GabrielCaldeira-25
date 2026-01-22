@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento **Full Stack**, criando projetos práticos para aplicar conceitos de front-end, back-end e banco de dados.
+Sou estudante de Ciência da Computação com foco em desenvolvimento **Full Stack**
 
 Tenho interesse especial em **Inteligência Artificial**, automação e integração de sistemas, sempre buscando evoluir tecnicamente e aprender boas práticas de desenvolvimento.
 
