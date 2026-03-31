@@ -16,31 +16,30 @@ Tenho interesse especial em **Inteligência Artificial**, automação e integra�
 ## 🛠️ Tecnologias
 
 
-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python
-- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript
-- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React
+- Python
+- n8n
+- JavaScript
+- React
 - HTML5 | CSS3
 - Consumo de APIs
 - 🌐 Node.js
-- APIs REST
 - SQL
 
 ---
 
-## 🤖 Projeto em Destaque — Resumidor de Vídeos com IA
+## 🤖 Projetos
+
+**Resumidor de Vídeos com IA**
 
 📌 Projeto em **Python** que gera **resumos automáticos de vídeos do YouTube** usando **Inteligência Artificial**.
-
-### Funcionalidades
-- 🎥 Processamento de vídeo via URL  
-- 🔊 Extração de áudio  
-- 🧠 Conversão de áudio em texto  
-- ✍️ Geração de resumo com IA  
 
 🔧 **Tecnologias:** Python, APIs, IA (NLP), processamento de áudio  
 
 Projeto voltado para **automação**, **produtividade** e aplicação prática de IA.
 
+**Analisador de currículos**
+
+📌 Projeto em **n8n** que funciona como um recrutador, analisando currículos para determinadas vagas**.
 ---
 
 ⭐ Obrigado por visitar meu perfil!
