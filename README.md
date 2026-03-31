@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Gabriel Caldeira
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Desenvolvedor **Full Stack em formação**  
+🎓 Estudante de **Ciência da Computação**   
 🚀 Buscando **oportunidade de estágio em programação**
 
 ---
